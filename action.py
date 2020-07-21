@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-import time  # 引入time模块
+import time
 import http.client
 import json
 import os
