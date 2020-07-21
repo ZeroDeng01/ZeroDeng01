@@ -1,12 +1,14 @@
 # -*- coding:utf-8 -*-
 import time
+from datetime import datetime
+import pytz
 import http.client
 import json
 import os
 
-
-
-updatetime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+tz = pytz.timezone('Asia/Shanghai') #东八区
+t = datetime.fromtimestamp(int(time.time()),pytz.timezone('Asia/Shanghai')).strftime('%Y-%m-%d %H:%M:%S')
+updatetime =  t
 mtime = ""
 gntotal = ""
 asymptomNum = ""
