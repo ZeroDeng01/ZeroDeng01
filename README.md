@@ -1,16 +1,18 @@
-### Hi there 👋
+## COVID-19疫情数据(中国)
 
-<!--
-**ZeroDeng01/ZeroDeng01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 数据源:新浪  
+> API地址:https://interface.sina.cn/news/wap/fymap2020_data.d.json  
+> 最新API请求时间:<!--updatetime start--><!--updatetime end-->    
+> 数据截至时间:<!--mtime start--><!--mtime end-->
 
-Here are some ideas to get you started:
+### 全国疫情数据
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 累计确诊                                    | 无症状感染者                                      | 现有确诊                                  |
+| ------------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
+| <!--gntotal start--><!--gntotal end--> | <!--asymptomNum start--><!--asymptomNum end--> | <!--econNum start--><!--econNum end--> |
+
+
+
+
+
+**😘祖国加油！**
