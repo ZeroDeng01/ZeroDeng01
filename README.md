@@ -2,8 +2,8 @@
 
 > 数据源:新浪  
 > API地址:https://interface.sina.cn/news/wap/fymap2020_data.d.json  
-> 最新API请求时间:<!--updatetime start-->2020-09-08 20:14:55<!--updatetime end-->    
-> 数据截至时间:<!--mtime start-->2020-09-08 19:30:00<!--mtime end-->
+> 最新API请求时间:<!--updatetime start-->2020-09-09 02:12:09<!--updatetime end-->    
+> 数据截至时间:<!--mtime start-->2020-09-09 01:30:00<!--mtime end-->
 
 ### 全国疫情数据
 
