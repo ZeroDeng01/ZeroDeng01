@@ -2,14 +2,14 @@
 
 > 数据源:新浪  
 > API地址:https://interface.sina.cn/news/wap/fymap2020_data.d.json  
-> 最新API请求时间:<!--updatetime start-->2021-03-31 08:47:38<!--updatetime end-->    
-> 数据截至时间:<!--mtime start-->2021-03-31 08:40:00<!--mtime end-->
+> 最新API请求时间:<!--updatetime start-->2021-03-31 14:20:57<!--updatetime end-->    
+> 数据截至时间:<!--mtime start-->2021-03-31 14:00:00<!--mtime end-->
 
 ### 全国疫情数据
 
 | 累计确诊                                    | 无症状感染者                                      | 现有确诊                                  |
 | ------------------------------------------- | ------------------------------------------------- | ----------------------------------------- |
-| <!--gntotal start-->102730<!--gntotal end--> | <!--asymptomNum start-->285<!--asymptomNum end--> | <!--econNum start-->383<!--econNum end--> |
+| <!--gntotal start-->102734<!--gntotal end--> | <!--asymptomNum start-->285<!--asymptomNum end--> | <!--econNum start-->385<!--econNum end--> |
 
 
 
