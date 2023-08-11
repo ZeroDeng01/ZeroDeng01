@@ -4,7 +4,7 @@
 
 🖥Start an independent business in `2021` 
 
-🐱There are two lovely cats at home, one is called `Datou` and the other is called `Liangqian`
+🐱There are two lovely cats at home, one is called `DaTou` and the other is called `LiangQian`
 
 ✍️Passionate about open source and contributing to the open source community
 
