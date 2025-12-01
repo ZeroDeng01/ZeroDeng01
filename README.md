@@ -11,8 +11,8 @@
 -------------------
 ### 📈 GitHub Activity Graph
 
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ZeroDeng01&show_icons=true&theme=vue&include_all_commits=true)  |  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDeng01&theme=vue&layout=compact) |
-|------------|-----------|
+ |  ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroDeng01&theme=vue&layout=compact) |
+|-----------|
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroDeng01&theme=vue"></img>
 
