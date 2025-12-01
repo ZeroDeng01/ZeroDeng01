@@ -40,8 +40,4 @@ counting of visitors to this page in this section started from Aug 11, 2023
 
 <a href="https://info.flagcounter.com/LKhq"><img src="https://s11.flagcounter.com/countxl/LKhq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 
-<img src="https://umami.zerodeng.com:5001/p/psSX8THfh" alt="umami" border="0"></a>
-
-
-
 
