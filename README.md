@@ -8,6 +8,8 @@
 
 ✍️Passionate about open source and contributing to the open source community
 
+![统计](https://umami.zerodeng.com:5001/p/psSX8THfh)
+
 -------------------
 ### 📈 GitHub Activity Graph
 
