@@ -11,7 +11,6 @@
 -------------------
 ### 📈 GitHub Activity Graph
 
-|-----------|
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroDeng01&theme=vue"></img>
 
